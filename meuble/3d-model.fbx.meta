@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: ec3dbeec63318424c8445396d20485e8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 72VITRA_CLASSIC_D3_DSW_BASE_BLACK_001
+    100004: 72VITRA_CLASSIC_D3_DSW_BASE_GLIDES_001
+    100006: 72VITRA_CLASSIC_D3_DSW_BASE_SCREWS_001
+    100008: 72VITRA_CLASSIC_D3_DSW_BASE_WOOD_001
+    100010: 72VITRA_CLASSIC_D3_EPC_SEAT_001
+    100012: Component#1_001
+    100014: Component#2_001
+    400000: //RootNode
+    400002: 72VITRA_CLASSIC_D3_DSW_BASE_BLACK_001
+    400004: 72VITRA_CLASSIC_D3_DSW_BASE_GLIDES_001
+    400006: 72VITRA_CLASSIC_D3_DSW_BASE_SCREWS_001
+    400008: 72VITRA_CLASSIC_D3_DSW_BASE_WOOD_001
+    400010: 72VITRA_CLASSIC_D3_EPC_SEAT_001
+    400012: Component#1_001
+    400014: Component#2_001
+    2100000: skp_front_default
+    2100002: plastic wit
+    2100004: Material1
+    2100006: onderstel
+    2300000: 72VITRA_CLASSIC_D3_DSW_BASE_BLACK_001
+    2300002: 72VITRA_CLASSIC_D3_DSW_BASE_GLIDES_001
+    2300004: 72VITRA_CLASSIC_D3_DSW_BASE_SCREWS_001
+    2300006: 72VITRA_CLASSIC_D3_DSW_BASE_WOOD_001
+    2300008: 72VITRA_CLASSIC_D3_EPC_SEAT_001
+    2300010: Component#1_001
+    2300012: Component#2_001
+    3300000: 72VITRA_CLASSIC_D3_DSW_BASE_BLACK_001
+    3300002: 72VITRA_CLASSIC_D3_DSW_BASE_GLIDES_001
+    3300004: 72VITRA_CLASSIC_D3_DSW_BASE_SCREWS_001
+    3300006: 72VITRA_CLASSIC_D3_DSW_BASE_WOOD_001
+    3300008: 72VITRA_CLASSIC_D3_EPC_SEAT_001
+    3300010: Component#1_001
+    3300012: Component#2_001
+    4300000: 72VITRA_CLASSIC_D3_EPC_SEAT_001
+    4300002: 72VITRA_CLASSIC_D3_DSW_BASE_WOOD_001
+    4300004: Component#2_001
+    4300006: Component#1_001
+    4300008: 72VITRA_CLASSIC_D3_DSW_BASE_SCREWS_001
+    4300010: 72VITRA_CLASSIC_D3_DSW_BASE_GLIDES_001
+    4300012: 72VITRA_CLASSIC_D3_DSW_BASE_BLACK_001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material1
+    second: {fileID: 2100000, guid: ef30b0f016b97f54c88ad9ff9d9da113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: onderstel
+    second: {fileID: 2100000, guid: ef30b0f016b97f54c88ad9ff9d9da113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skp_front_default
+    second: {fileID: 2100000, guid: ef30b0f016b97f54c88ad9ff9d9da113, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
